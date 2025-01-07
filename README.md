@@ -1,7 +1,7 @@
 # Hi, I'm Mariana 👋
 
 ## 💫 About Me:
-👩🏻‍💻 I’m currently working on small projects to develop my skills <br>🌱 I’m currently learning JavaScript and functional programming in Python
+👩🏻‍💻 I’m currently working on small projects to develop my skills <br>🌱 I’m currently learning JavaScript and data structures in Python
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marianaeslan) 
