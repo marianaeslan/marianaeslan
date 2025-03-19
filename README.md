@@ -1,4 +1,5 @@
 # Hi, I'm Mariana 👋
+Frontend Developer | ReactJS | NextJS | Python
 
 ## 💫 About Me:
 👩🏻‍💻 I’m currently working on small projects to develop my skills <br>🌱 I’m currently learning JavaScript and data structures in Python
