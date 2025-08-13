@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá! Sou uma desenvolvedora apaixonada por tecnologia e inovação. Atualmente, estou aprofundando meus conhecimentos em engenharia de software e explorando desenvolvimento web..<br><br>🚀 Tenho experiência com Python,  HTML, CSS e JavaScript, além de estar sempre experimentando novas tecnologias.<br><br>🎮 No meu tempo livre, meus hobbies são jogos e fotografia.<br><br>📌 Aqui no meu GitHub, você encontrará projetos que vão desde automação, jogos e desenvolvimento web até estudos de desenvolvimento mobile e desafios de programação.
+Olá! Sou uma desenvolvedora apaixonada por tecnologia e inovação. Atualmente, estou aprofundando meus conhecimentos em engenharia de software e explorando desenvolvimento web.<br><br>🚀 Tenho experiência com Python,  HTML, CSS e JavaScript, além de estar sempre experimentando novas tecnologias.<br><br>🎮 No meu tempo livre, meus hobbies são jogos e fotografia.<br><br>📌 Aqui no meu GitHub, você encontrará projetos que vão desde automação, jogos e desenvolvimento web até estudos de desenvolvimento mobile e desafios de programação.
 
 
 ## 🌐 Socials:
