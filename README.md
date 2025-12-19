@@ -10,7 +10,7 @@ Olá! Sou uma desenvolvedora apaixonada por tecnologia e inovação. <br>Atualme
 <div align="center">
   <img
     src="https://nirzak-streak-stats.vercel.app/?user=marianaeslan&theme=github_dark&hide_border=true"
-    width="42%"
+    width="45%"
     style="display:inline-block;"
   />
   <img
