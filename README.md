@@ -13,11 +13,7 @@ Olá! Sou uma desenvolvedora apaixonada por tecnologia e inovação. <br>Atualme
     width="45%"
     style="display:inline-block;"
   />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianaeslan&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
-    width="33%"
-    style="display:inline-block;"
-  />
+  
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
