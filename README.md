@@ -1,6 +1,6 @@
 # 👋🏼 Prazer, sou a Mariana!
 
-**Desenvolvedora de Software em formação** apaixonada por tecnologia.
+**Desenvolvedora de Software em formação**, apaixonada por tecnologia.
 ---
 
 🎓 **Formação:** Cursando Análise e Desenvolvimento de Sistemas na **FIAP**.</br>
